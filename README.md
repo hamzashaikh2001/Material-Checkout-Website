@@ -1,4 +1,6 @@
-# EE461-SP22-Lab-Group
+# *Material Checkout Website*
+
+*EE461-SP22-Lab-Group*
 
 Section: 17690
 
